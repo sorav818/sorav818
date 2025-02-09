@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hey there ! I am a second year CSE student, future software engineer. I am passionate about competitive coding and web development , which is why i am pursuing my computer science degree from Chandigarh University(Punjab) , where i am working on my c++ programming and other languages related to web development .
 <!--
 **sorav818/sorav818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
